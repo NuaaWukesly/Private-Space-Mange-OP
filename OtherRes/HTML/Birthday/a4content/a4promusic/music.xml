@@ -1,0 +1,5 @@
+<musicplayer width="650" height="230">
+	<autoplay value="no"/>
+	<album>
+	</album>
+</musicplayer>

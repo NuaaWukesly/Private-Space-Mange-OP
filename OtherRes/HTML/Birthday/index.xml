@@ -1,0 +1,188 @@
+<template id="a4pro069" version="1.00">
+	<license key=""/>
+	<main>
+		<title><![CDATA[Happy Birthday!]]></title>
+		<desc id="1"><![CDATA[你的生日主页]]></desc>
+		<desc id="2"><![CDATA[Email: <a href="mailto:wxl901018l@163.com" >wxl901018l@163.com</a>]]></desc>
+		<desc id="3"><![CDATA[©Copyright by NUAA 161140225]]></desc>
+		<img id="1" resize="bestfit" src="" alpha="50" url="" target="" enablelink="1"/>
+		<img id="2" resize="none" src="" alpha="100" url="" target="" enablelink="0"/>
+		<bgm id="1" src="a4content/网络歌手-祝你生日快乐.mp3" volume="36" loop="0" startup="on"/>
+		<intro skip="1"/>
+	</main>
+	<style>
+		<font>
+			<title><![CDATA[<b><p align="right"><font size="42" color="#C60653" face="Arial">]]></title>
+			<desc id="1"><![CDATA[<p align="right"><font size="16" color="#555555" face="Verdana">]]></desc>
+			<desc id="2"><![CDATA[<p align="left"><font size="12" color="#333333" face="Verdana">]]></desc>
+			<desc id="3"><![CDATA[<p align="right"><font size="12" color="#333333" face="Verdana">]]></desc>
+			<mainmenu state="normal"><![CDATA[<p align="left"><font size="14" color="#F6F6F6" face="Verdana">]]></mainmenu>
+			<mainmenu state="active"><![CDATA[<p align="left"><font size="14" color="#FFD966" face="Verdana">]]></mainmenu>
+			<submenu state="normal"><![CDATA[<p align="left"><font size="12" color="#C60653" face="Verdana">]]></submenu>
+			<submenu state="active"><![CDATA[<p align="left"><font size="12" color="#C60653" face="Verdana">]]></submenu>
+			<subtitle><![CDATA[<b><p align="left"><font size="21" color="#C60653" face="Arial">]]></subtitle>
+			<content id="1"><![CDATA[<p align="left"><font size="12" color="#333333" face="Verdana">]]></content>
+		</font>
+		<layout>
+			<color id="1" name="Background Color" value="0xEDCFBC" alpha="100"/>
+			<color id="2" name="Intro Panel Color" value="0xE6AFA2" alpha="85"/>
+			<color id="3" name="Pattern Color" value="0xF98AAC" alpha="100"/>
+			<color id="4" name="Header Color" value="0xE6AFA2" alpha="100"/>
+			<color id="5" name="Right Fill Color" value="0x610529" alpha="100"/>
+			<color id="6" name="Image Area Color" value="0xffffff" alpha="100"/>
+			<color id="7" name="Main Menu Normal Color" value="0xffffff" alpha="0"/>
+			<color id="8" name="Main Menu Active Color" value="0xffffff" alpha="0"/>
+			<color id="9" name="Sub Menu Color" value="0xeeeeee" alpha="100"/>
+			<color id="10" name="Sub Menu Frame Color" value="0x999999" alpha="100"/>
+			<color id="11" name="Music Icon Color" value="0x610529" alpha="100"/>
+		</layout>
+		<scrollbar scrolltrack="0xCCCCCC" highlight="0xEEEEEE" border="0xCCCCCC" shadow="0x666666" symbol="0x333333"/>
+	</style>
+	<mainmenu>
+		<item id="1" type="content" src="a4content/a4progallery/gallery.swf" target="">
+			<text><![CDATA[生日祝福]]></text>
+		</item>
+		<item id="2" type="empty" src="a4content/生日快乐1.jpg">
+			<text><![CDATA[寄  语]]></text>
+		</item>
+		<item id="3" type="link" src="http://user.qzone.qq.com/1564706756" target="">
+			<text><![CDATA[Goto your QQ Place]]></text>
+		</item>
+		<item id="4" type="link" src="http://www.lsdy.net/" target="">
+			<text><![CDATA[鹿山大院]]></text>
+		</item>
+		<item id="5" type="link" src="http://www.wxl901018.icoc.cc/" target="_self">
+			<text><![CDATA[出品人网页]]></text>
+		</item>
+		<item id="6" type="link" src="http://user.qzone.qq.com/1060394242" target="">
+			<text><![CDATA[出品人空间]]></text>
+		</item>
+		<item id="7" type="content">
+			<text><![CDATA[网上链接]]></text>
+		</item>
+		<item id="8" type="content" src="" target="">
+			<text><![CDATA[联系我们]]></text>
+		</item>
+	</mainmenu>
+	<submenu>
+		<item id="1" pid="2" type="link" src="http://wxl901018.icoc.cc/" target="">
+			<text><![CDATA[From Internet]]></text>
+		</item>
+		<item id="2" pid="2" type="content" src="" target="">
+			<text><![CDATA[我想对你说]]></text>
+		</item>
+		<item id="1" pid="7" type="link" src="http://www.google.com/" target="_self">
+			<text><![CDATA[Google]]></text>
+		</item>
+		<item id="2" pid="7" type="link" src="http://www.baidu.com/" target="_self">
+			<text><![CDATA[Baidu]]></text>
+		</item>
+		<item id="3" pid="7" type="link" src="http://www.hao123.com/" target="_self">
+			<text><![CDATA[Hao123]]></text>
+		</item>
+	</submenu>
+	<maincontent>
+		<item id="1">
+			<img id="1" src="" resize="bestfit"/>
+			<text id="1"><![CDATA[<font face="华文楷体" color="#FF0000" size="14">今天是你的生日，时间又过去了一年，时间带给你的是越来越丰富，越来越美好的记忆。岁月也许使我们容颜不再，但也赋予我们成熟的美，岁月带给你的事成长，是不断丰富的阅历，它让你越来越饱满。在此我也借着岁月的光，带上我对你的祝福。
+让那春天怒放的鲜花，是我是我给你的礼物；我的祝福如那滔滔的江水延绵不绝，纵使岁月失色，日月无光，我也要祝福你。愿你每一天有大海一样的心境，虽波涛汹涌，可你却能包纳外物，内心平静；愿你，天天都心临花境，常怀美丽心情。
+在接下来的日日夜夜里，愿我的祝福陪伴你的左右。通过该主页你还可以接收我来自网络的祝福。在此，我画个幸福的圈圈，把你永远圈在里面。
+在生日到来的今天，愿所有的欢乐和喜悦，不断涌向您的窗前。</font>]]></text>
+		</item>
+		<item id="2">
+			<img id="1" src=""/>
+			<text id="1"><![CDATA[]]></text>
+		</item>
+		<item id="5">
+			<img id="1" src=""/>
+			<text id="1"><![CDATA[(Your Text Here)]]></text>
+		</item>
+		<item id="4">
+			<img id="1" src=""/>
+			<text id="1"><![CDATA[(Your Text Here)]]></text>
+		</item>
+		<item id="6">
+			<img id="1" src=""/>
+			<text id="1"><![CDATA[]]></text>
+		</item>
+		<item id="3">
+			<img id="1" src=""/>
+			<text id="1"><![CDATA[]]></text>
+		</item>
+		<item id="7">
+			<img id="1" src=""/>
+			<text id="1"><![CDATA[]]></text>
+		</item>
+		<item id="8">
+			<img id="1" src=""/>
+			<text id="1"><![CDATA[<font face="华文楷体" color="#808000" size="15">联系电话：15605288901或18061608810
+QQ：1060394242或2812258147
+欢迎你的使用！</font>]]></text>
+		</item>
+	</maincontent>
+	<subcontent>
+		<item id="1" pid="2">
+			<img id="1"/>
+			<text id="1"><![CDATA[(Your Text Here)]]></text>
+		</item>
+		<item id="2" pid="2">
+			<img id="1"/>
+			<text id="1"><![CDATA[<font face="华文楷体" color="#0000FF" size="14">美丽的景色会描绘在属于它的世界，高翔的鸟儿会悠然在属于它的天河，潮汐的涨落会定格在属于它的海泽，生日的祝福会发送到属于你的电波：生日快乐！
+春天是鲜花盛开的季节，春天是孕育生命得时节，春天是你的象征阳光灿烂豆蔻年华，春天是你的装扮百花斗艳风华正茂。春天的你从花丛中走来，桃花盛开的时日是你的诞辰。祝你生日快乐！喜心颜开，愿你如花似玉，锦绣前程。
+蜂围蝶阵伴花开，问候绵绵祝福来。一朵海棠红艳艳，恰似脸庞喜笑颜。两朵杜鹃美无边，正如情意无声连。三朵桃花粉娇俏，好比今生相识妙。四朵五朵六七朵，送入君怀君快活。一份鲜花一份情，幸福生活享不停。
+将文字作为礼物送给你，将手机响起作为歌曲送给你，将朋友这颗真心送给你，只愿你生日快乐，永远幸福</font>]]></text>
+		</item>
+		<item id="1" pid="7">
+			<img id="1"/>
+			<text id="1"><![CDATA[Your Text Here]]></text>
+		</item>
+		<item id="2" pid="7">
+			<img id="1"/>
+			<text id="1"><![CDATA[Your Text Here]]></text>
+		</item>
+		<item id="3" pid="7">
+			<img id="1"/>
+			<text id="1"><![CDATA[Your Text Here]]></text>
+		</item>
+	</subcontent>
+	<showhint value="off"/>
+	<demo key="b10185e9">
+		<button1><![CDATA[Demo Only]]></button1>
+	</demo>
+	<file checksum="M2E0NmYyMDVjZWI5OTNhMGVkMDJkODk3"/>
+	<siteobject width="974" height="540">
+		<contentimages>
+			<item id="1" width="200" height="200"><![CDATA[Content Image]]></item>
+		</contentimages>
+		<siteimages>
+			<item id="1" width="144" height="88"><![CDATA[Logo Image]]></item>
+			<item id="2" width="974" height="540"><![CDATA[Background Image]]></item>
+		</siteimages>
+	</siteobject>
+	<signature hash="3082aa7d8789715521178e30dc8fb147"/><htmldata>
+        <TemplPth src=""/>
+        <Width value="974"/>
+        <Height value="540"/>
+        <BestFit value="1"/>
+        <VertInPage value="1"/>
+        <Title><![CDATA[]]></Title>
+        <Description><![CDATA[]]></Description>
+        <KeyWord01><![CDATA[]]></KeyWord01>
+        <KeyWord02><![CDATA[]]></KeyWord02>
+        <KeyWord03><![CDATA[]]></KeyWord03>
+        <KeyWord04><![CDATA[]]></KeyWord04>
+        <KeyWord05><![CDATA[]]></KeyWord05>
+        <KeyWord06><![CDATA[]]></KeyWord06>
+        <KeyWord07><![CDATA[]]></KeyWord07>
+        <KeyWord08><![CDATA[]]></KeyWord08>
+        <KeyWord09><![CDATA[]]></KeyWord09>
+        <KeyWord10><![CDATA[]]></KeyWord10>
+        <KeyWord11><![CDATA[]]></KeyWord11>
+        <KeyWord12><![CDATA[]]></KeyWord12>
+        <KeyWord13><![CDATA[]]></KeyWord13>
+        <KeyWord14><![CDATA[]]></KeyWord14>
+        <KeyWord15><![CDATA[]]></KeyWord15>
+        <HTMLText><![CDATA[]]></HTMLText>
+        <HTMLBGColor value="0xFFFFFF"/>
+        <HTMLBGImage src=""/>
+    </htmldata></template>

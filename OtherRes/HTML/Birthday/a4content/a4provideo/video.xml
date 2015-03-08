@@ -1,0 +1,8 @@
+<videoplayer width="779" height="432">
+	<msg id="1"><![CDATA[No Video]]></msg>
+	<msg id="2"><![CDATA[Error loading Video!]]></msg>
+	<actualsize value="off"/>
+  <video id="0" src="[Android开发从零开始].4.TextView控件学习(1).flv" img="">
+    <desc><![CDATA[[Android开发从零开始].4.TextView控件学习(1).flv]]></desc>
+  </video>
+</videoplayer>
