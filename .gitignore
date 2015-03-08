@@ -1,0 +1,10 @@
+# Object files
+*.frm
+*.frx
+*.vbp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+
+# Executables
+*.exe
